@@ -33,7 +33,7 @@ You can install python-nessus either via pip or by cloning the repository.
 
     $ git clone https://github.com/QKaiser/pynessus.git pynessus
     $ cd pynessus
-    $ python setup.py install
+    $ python setup.py install --user
 
 
 Quickstart
