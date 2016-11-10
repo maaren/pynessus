@@ -4,7 +4,7 @@
 server = nessus01
 port = 8834
 user = nessus
-password = *pass*
+password = {md5}*pass*
 logfile = /home/user/tools/pynessus/nessus.log
 report_path = /home/user/tools/pynessus/reports
 loglevel = debug
